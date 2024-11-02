@@ -38,25 +38,25 @@ I am a student passionate about research, scientific outreach, software developm
 ---
 
 ## 📂 Key Projects
-### 1. **[Compiler](https://github.com/AmandaCordero/Compiler)**
+### 1. **[Compiler](https://github.com/chriss8g/Compiler)**
    - *Description*: A compiler from Hulk to C
 
 ### 2. **[Microprocessor-S-Mips](https://github.com/AmandaCordero/Microprocesador-S-Mips)**
    - *Description*: Computer Architecture project
 
-### 3. **[Network-Project](https://github.com/AmandaCordero/Network-Project)**
+### 3. **[Network-Project](https://github.com/chriss8g/computer-networks-2024)**
    - *Description*: HTTP protocol implementation for a Networking course
 
-### 4. **[Juegos-Caribe](https://github.com/AmandaCordero/Juegos-Caribe)**
+### 4. **[Juegos-Caribe](https://github.com/chriss8g/Juegos-Caribe)**
    - *Description*: Website for the Caribbean Games of the University of Havana
 
 ### 5. **[ExcursionPlanner](https://github.com/AmandaCordero/ExcursionPlanner)**
    - *Description*: A tool for tour guides using AI and simulation
 
-### 6. **[Ave-Cesar](https://github.com/AmandaCordero/Ave-Cesar)**
+### 6. **[Ave-Cesar](https://github.com/chriss8g/Ave-Cesar)**
    - *Description*: A card game
 
-### 7. **[ClaseMetodologicaAlgebra](https://github.com/AmandaCordero/ClaseMetodologicaAlgebra)**
+### 7. **[ClaseMetodologicaAlgebra](https://github.com/chriss8g/ClaseMetodologicaAlgebra)**
    - *Description*: Methodological class on Algebra I
 
 ---
