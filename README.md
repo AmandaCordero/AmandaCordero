@@ -83,7 +83,7 @@ I am a student passionate about research, scientific outreach, software developm
 ## 📞 Contact
 - **Email**: amandacordero.1709@gmail.com
 - **Telegram**: [@MandiCordero](https://t.me/MandiCordero)
-- **LinkedIn**: [Amanda Cordero](https://www.linkedin.com/in/amanda-cordero/)
+- **LinkedIn**: [Amanda Cordero](https://www.linkedin.com/in/amanda-cordero-42024a327/)
 
 ---
 
