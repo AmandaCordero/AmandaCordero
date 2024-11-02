@@ -41,7 +41,7 @@ I am a student passionate about research, scientific outreach, software developm
 ### 1. **[Compiler](https://github.com/chriss8g/Compiler)**
    - *Description*: A compiler from Hulk to C
 
-### 2. **[Microprocessor-S-Mips](https://github.com/AmandaCordero/Microprocesador-S-Mips)**
+### 2. **[Microprocessor-S-Mips](https://github.com/AmandaCordero/Proyecto-2023)**
    - *Description*: Computer Architecture project
 
 ### 3. **[Network-Project](https://github.com/chriss8g/computer-networks-2024)**
