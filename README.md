@@ -1,87 +1,87 @@
-# 👋 Hola, soy Amanda Cordero
+# 👋 Hi, I'm Amanda Cordero
 
-🎓 **Estudiante** de 4to año de Ciencia de la Computación en la Universidad de La Habana.  
-💻 **Alumna ayudante** en el Departamento de Matemática Básica desde mi segundo año.
+🎓 4th-year **Computer Science Student** at the University of Havana.  
+💻 **Teaching Assistant** in the Basic Mathematics Department since my second year.
 
 ---
 
 ## 🌱 Bio
-Soy una estudiante apasionada por la programación competitiva, el desarrollo de software, la divulgación científica y la investigación matemática. Participo en competiciones ICPC y dedico tiempo a proyectos académicos y personales relacionados con algoritmos, inteligencia artificial y desarrollo web.
+I am a student passionate about research, scientific outreach, software development, and competitive programming. I dedicate time to academic and personal projects related to algorithms, artificial intelligence, and web development.
 
 ---
 
-## 🔍 Áreas de Interés
-- **Desarrollo Web**
-- **Inteligencia Artificial**
-- **Estructuras de Datos y Algoritmos**
-- **Ecuaciones Diferenciales**
-- **Modelación Matemática**
+## 🔍 Areas of Interest
+- **Web Development**
+- **Artificial Intelligence**
+- **Data Structures and Algorithms**
+- **Differential Equations**
+- **Mathematical Modeling**
 
 ---
 
-## 💻 Tecnologías y Herramientas
-- **Lenguajes**: C#, Python, Java, C/C++, JavaScript, PHP, Assembly
+## 💻 Technologies and Tools
+- **Languages**: C#, Python, Java, C/C++, JavaScript, PHP, Assembly
 - **Frameworks**: ReactJS, NextJS, NestJS, SpringBoot, Angular, Django, Bootstrap, GraphQL
-- **Herramientas**: Git, LaTeX, Bash, Strapi, Drupal
+- **Tools**: Git, LaTeX, Bash, Strapi, Drupal
 - **Software**: Gimp, Inkscape, Audacity, Unity, Blender, MySQL
 
-> **Actualmente aprendiendo**: Docker
+> **Currently learning**: Docker
 
 ---
 
-## 🏅 Logros Destacados
-- 🥈 Medalla de Plata en Concurso Nacional de Matemática (2019)
-- 🥉 Mención en Festival de la Clase, Universidad de La Habana (2023)
-- 🥈 Destacado en Festival de la Clase, Universidad de La Habana (2024)
-- 🥈 Segundo Premio en Feria de Divulgación, Universidad de La Habana (2023)
+## 🏅 Key Achievements
+- 🥈 Silver Medal in National Mathematics Competition (2019)
+- 🥉 Mention at the Class Festival, University of Havana (2023)
+- 🥈 Highlighted at the Class Festival, University of Havana (2024)
+- 🥈 Second Prize in Outreach Fair, University of Havana (2023)
 
 ---
 
-## 📂 Proyectos Clave
+## 📂 Key Projects
 ### 1. **[Compiler](https://github.com/AmandaCordero/Compiler)**
-   - *Descripción*: Un compilador de Hulk a C
+   - *Description*: A compiler from Hulk to C
 
-### 2. **[Microprocesador-S-Mips](https://github.com/AmandaCordero/Microprocesador-S-Mips)**
-   - *Descripción*: Proyecto de Arquitectura de Computadoras
+### 2. **[Microprocessor-S-Mips](https://github.com/AmandaCordero/Microprocesador-S-Mips)**
+   - *Description*: Computer Architecture project
 
 ### 3. **[Network-Project](https://github.com/AmandaCordero/Network-Project)**
-   - *Descripción*: Implementación del protocolo HTTP para un curso de Redes
+   - *Description*: HTTP protocol implementation for a Networking course
 
 ### 4. **[Juegos-Caribe](https://github.com/AmandaCordero/Juegos-Caribe)**
-   - *Descripción*: Sitio web para los Juegos del Caribe de la Universidad de La Habana
+   - *Description*: Website for the Caribbean Games of the University of Havana
 
 ### 5. **[ExcursionPlanner](https://github.com/AmandaCordero/ExcursionPlanner)**
-   - *Descripción*: Herramienta para guías de excursiones que usa IA y simulación
+   - *Description*: A tool for tour guides using AI and simulation
 
 ### 6. **[Ave-Cesar](https://github.com/AmandaCordero/Ave-Cesar)**
-   - *Descripción*: Un juego de cartas
+   - *Description*: A card game
 
 ### 7. **[ClaseMetodologicaAlgebra](https://github.com/AmandaCordero/ClaseMetodologicaAlgebra)**
-   - *Descripción*: Clase metodológica sobre Álgebra I
+   - *Description*: Methodological class on Algebra I
 
 ---
 
-## 📚 Educación
-### **Universidad de La Habana**
-- **Licenciatura en Ciencia de la Computación**
+## 📚 Education
+### **University of Havana**
+- **Bachelor's in Computer Science**
 - GPA: 4.72/5.00
-- Período: Abril 2022 - Presente
+- Period: April 2022 - Present
 
 ### **IPVCE Federico Engels**
-- **Enseñanza Pre-Universitaria**
+- **Pre-University Education**
 - GPA: 99.93/100.00
-- Período: Septiembre 2018 - Febrero 2022
+- Period: September 2018 - February 2022
 
 ---
 
-## 🗣 Idiomas
-- **Español**: Nativo
-- **Inglés**: B1 (Norma Europea)
+## 🗣 Languages
+- **Spanish**: Native
+- **English**: B1 (European Standard)
 
 ---
 
-## 📞 Contacto
-- **Correo**: amandacordero.1709@gmail.com
+## 📞 Contact
+- **Email**: amandacordero.1709@gmail.com
 - **Telegram**: [@MandiCordero](https://t.me/MandiCordero)
 - **LinkedIn**: [Amanda Cordero](https://www.linkedin.com/in/amanda-cordero/)
 
