@@ -22,10 +22,9 @@ I am a student passionate about research, scientific outreach, software developm
 ## 💻 Technologies and Tools
 - **Languages**: C#, Python, Java, C/C++, JavaScript, PHP, Assembly
 - **Frameworks**: ReactJS, NextJS, NestJS, SpringBoot, Angular, Django, Bootstrap, GraphQL
-- **Tools**: Git, LaTeX, Bash, Strapi, Drupal
+- **Tools**: Git, LaTeX, Bash, Strapi, Drupal, Docker
 - **Software**: Gimp, Inkscape, Audacity, Unity, Blender, MySQL
 
-> **Currently learning**: Docker
 
 ---
 
